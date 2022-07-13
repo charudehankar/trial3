@@ -4,7 +4,8 @@ public class find_link {
 
 	public static void main(String[] args)
 	{
-
+		google.com
+			
 	}
 
 }
